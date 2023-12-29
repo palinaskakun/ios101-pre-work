@@ -4,7 +4,7 @@ Submitted by: **Palina Skakun**
 
 **IOS101-Prework Project** is an app that has three labels and a button. When the button is pressed, it changes the background of the app to a random color.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
